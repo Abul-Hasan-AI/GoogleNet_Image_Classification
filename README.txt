@@ -12,7 +12,3 @@
  -It contains code for googlenet. It depends on lrn.py and pool_helper.py.
  -change value of 'dataset' variable on line 37 to change the dataset(between mnist and cifar10).
  -the variable 'runtype' on line 38 can be changed to switch between training and predicting.(Note: Model needs to be trained atleast once before predicting)
-
- 2. VGG_16.py:
-  - It contains code for VGG 16 layers. 
-  - change the variable 'dataset' variable on line 14 to change the dataset(between mnist and cifar10).
